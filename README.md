@@ -1,1 +1,3 @@
-# Trilha JS Developer - Pokedex
+# Pokedex - JS
+
+TODO README
